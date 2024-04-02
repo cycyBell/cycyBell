@@ -1,5 +1,85 @@
 ### Hi there 👋
+ 
+My Name is: **DJELASSEM CYRILLE**
+**AI Scientist | Data Analyst | Developer**
 
+I'm a passionate developer with a strong foundation in data analysis and artificial intelligence. I leverage my skills in Python, deep learning, and NLP to build innovative solutions and unlock insights from data.
+
+**Technical Skills**
+
+***Programming Languages:*** Python (Advanced), C (Intermediate)<br>
+***Deep Learning:*** TensorFlow, Keras
+Natural Language Processing (NLP)<br>
+***Web Development:*** React, HTML, css, JavaScript <br>
+***Backend:*** Flask
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=cycyBell&layout=compact&theme=vision-friendly-dark
+
+
+***Want to contact?***
+
+I'm always eager to learn and collaborate! Feel free to reach out through:
+
+Email: cycydjelassem@gmail.com
+LinkedIn:https://www.linkedin.com/in/cycy-djelassem
+
+***Stay Updated***
+
+Follow me for the latest updates on my projects and learnings!
+
+Let's build something amazing together!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name: username [GitHub stars: [invalid URL removed]]
+AI Scientist | Data Analyst | Developer
+
+I'm a passionate developer with a strong foundation in data analysis and artificial intelligence. I leverage my skills in Python, deep learning, and NLP to build innovative solutions and unlock insights from data.
+
+Technical Skills
+
+Programming Languages: Python (Expert), C (Intermediate)
+Deep Learning: TensorFlow, Keras
+Natural Language Processing (NLP)
+Web Development: React, HTML, JavaScript
+Backend: Flask
+Repositories
+
+This space showcases some of my projects. Feel free to explore and contribute!
+
+Project 1 name: link/to/repository: link/to/repository (Brief description of the project and its purpose)
+Project 2 name: link/to/repository: link/to/repository (Brief description of the project and its purpose)
+Project 3 name: link/to/repository: link/to/repository (Brief description of the project and its purpose)
+Want to Connect?
+
+I'm always eager to learn and collaborate! Feel free to reach out through:
+
+Email: [your_email@email.com]
+LinkedIn: [link to your LinkedIn profile]
+Stay Updated
+
+Follow me for the latest updates on my projects and learnings!
+
+Let's build something amazing together!
 <!--
 **cycyBell/cycyBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
