@@ -12,6 +12,7 @@ I'm a passionate developer with a strong foundation in data analysis and artific
 Natural Language Processing (NLP)<br>
 ***Web Development:*** React, HTML, css, JavaScript <br>
 ***Backend:*** Flask
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cycyBell&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cycyBell&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
